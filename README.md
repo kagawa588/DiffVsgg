@@ -22,7 +22,7 @@ If you find this work useful in your research, please star our repository and co
 ```
 @inproceedings{chen2025diffvsgg,
   title={DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation},
-  author={Chen, Mu and Li, Liulei and Wang, Wenguan and Quan, Ruijie and Yang, Yi},
+  author={Chen, Mu and Li, Liulei and Wang, Wenguan and Yang, Yi},
   year = {2025},
   booktitle = {CVPR},
 }
